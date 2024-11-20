@@ -48,8 +48,7 @@ I'm a **Backend Developer** with strong expertise in **Node.js** and a passion f
 
 ### 🌍 Let's Connect
 
-- 🔗 **LinkedIn**: [Abdelrahim's LinkedIn](https://www.linkedin.com/in/abdelrahim)
-- 🐦 **Twitter**: [@AbdelrahimDev](https://twitter.com/AbdelrahimDev)
+- 🔗 **LinkedIn**: [Abdelrahim's LinkedIn]([https://www.linkedin.com/in/abdelrahim](https://www.linkedin.com/in/abdelrahim-abdelmoneim-23803716a/))
 
 ### 📈 GitHub Stats
 
